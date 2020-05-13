@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:wght@700&family=Fredoka+One&family=Montserrat+Alternates&family=Ubuntu+Condensed&display=swap');
+
+.container{
+    display: flex;
+    margin-top: 1.5em;
+}
+.box-1{
+width: 35vw;
+}
+.box-2{
+    width: 35vw;
+    padding-top: 2.2em;
+}
+.box-3{
+    width: 40vw;
+    padding-top: 4em;
+}
+.tox-progress{
+    margin: 1em auto 2em auto;
+
+}
+#search{
+    width: 80%;
+    border-radius: 2em;
+    border: 1px solid #eee;
+    outline: none;
+    margin: 2em 0em 1.5em 1.4em;
+    justify-content: center;
+    padding: 1.2em;
+}
+.tox-progress-content{
+    text-align: center;
+justify-content: center;
+font-family: 'Fredoka One', cursive;
+font-size: 1.8em;
+color: rgb(65, 65, 65);
+}
+.card{
+    width: 80%;
+    margin: 1em auto;
+    padding: 1.5em;
+    background-color: #eee;
+    border-radius: .6em;
+}
+.card > p{
+   
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    text-align: center;
+}
+
+.small-card-holder{
+    display: flex;
+}
+
+.small-card{
+    background-color: #eee;
+    padding: .8em;
+    text-align: center;
+    margin: .5em;
+    border-radius: .2em;
+    font-family: 'Ubuntu Condensed', sans-serif;
+
+}
