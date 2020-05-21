@@ -2,6 +2,7 @@ const startedDate = new Date('2020-05-21');
 const todayDate =new Date();
 const endDate= new Date('2020-08-20');
 
+console.log('Started Date',startedDate);
 
 //How Many Days Have gone
 
